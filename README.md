@@ -1,3 +1,5 @@
+![trackerclaw](.github/preview.png)
+
 # 🦞 TrackerClaw
 
 A privacy-first time tracker. Local SQLite, no accounts, no cloud. TUI for quick entries, web dashboard for reports.
