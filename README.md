@@ -348,7 +348,7 @@ The interactive TUI now includes:
 
 ## License
 
-MIT — This is the wave. ⚫🦞
+Apache-2.0, see [LICENSE](LICENSE).
 
 ---
 
