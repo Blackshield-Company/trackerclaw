@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["synth"]
 description = "Privacy-first time tracker — local, no cloud, no accounts"
 license = "Apache-2.0"
-repository = "https://github.com/synthalorian/trackerclaw"
+repository = "https://github.com/Blackshield-Company/trackerclaw"
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
