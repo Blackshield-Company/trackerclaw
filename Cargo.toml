@@ -25,7 +25,7 @@ x11rb = { version = "0.13", features = ["screensaver"] }
 regex = "1"
 toml = "0.8"
 notify-rust = "4"
-reqwest = { version = "0.12", features = ["json"] }
+reqwest = { version = "0.13", features = ["json"] }
 base64 = "0.22"
 
 [[bin]]
